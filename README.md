@@ -11,3 +11,5 @@
 * vue_vuex-cart - Vuex 練習 (簡易購物車)
 
 * react_expense-tracker - React 練習 (簡易記帳功能，能依年份顯示)
+
+* typescript_drag-and-drop - TypeScript 練習 (Drag and Drop)
